@@ -1,0 +1,28 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-style: normal;
+}
+
+h2 {
+  font-style: normal;
+  text-align: center;
+  color: azure;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
+* {
+
+  background-color: maroon
+
+}
