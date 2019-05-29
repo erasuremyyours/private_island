@@ -7,7 +7,7 @@ h1 {
 h2 {
   font-style: normal;
   text-align: center;
-  color: azure;
+  color: black;
 }
 
 p {
@@ -23,6 +23,6 @@ ul {
 }
 * {
 
-  background-color: maroon
+  background-color: none
 
 }
